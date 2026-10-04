@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+*.csv
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+
+# Temporary files
+*.log
+.DS_Store
